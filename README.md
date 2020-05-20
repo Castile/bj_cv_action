@@ -18,15 +18,15 @@ b) 通过外设（摄像头）实时采集视频，实时增强，同时显示�
 
 ## 图像增强界面效果：
 
-![1589943908487](https://github.com/Castile/bj_cv_action/assets/1589943908487.png)
+![1589943908487](assets/1589943908487.png)
 
-![1589944080491](https://github.com/Castile/bj_cv_action/assets/1589944080491.png)
+![1589944080491](assets/1589944080491.png)
 
-![1589944118083](https://github.com/Castile/bj_cv_action/assets/1589944118083.png)
+![1589944118083](assets\1589944118083.png)
 
 ## 视频增强：
 
-![1589946798575](https://github.com/Castile/bj_cv_action/assets/1589946798575.png)
+![1589946798575](assets\1589946798575.png)
 
 
 
